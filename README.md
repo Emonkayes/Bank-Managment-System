@@ -11,8 +11,11 @@ This is a simple bank management system based on desktop application.I used to d
 For Our project we will use: 
 
 Visual Studio 2019 
+
 Windows form 
+
 SQL data base Server 
+
 Language-C#(Source Code)
  
  ## Set up guide
