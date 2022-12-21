@@ -1,5 +1,5 @@
 
-# RestaurantManagementSystem
+# Restaurant Management System
 
 
 
