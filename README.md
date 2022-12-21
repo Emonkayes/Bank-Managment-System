@@ -4,7 +4,7 @@
 
 
 ## Description
-This is a simple bank management system based on desktop application.I used to develop it with C# and . I managed database part on MsSql.
+This is a simple bank management system based on desktop application.I used to develop it with C# . I managed database part on MsSql.
 
 ## Tools:
 
